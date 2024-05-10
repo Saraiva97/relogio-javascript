@@ -7,7 +7,6 @@
 - Oferecer uma experiência visualmente agradável e funcional para acompanhar o tempo.
 <br>
 <br>
-<br>
 
 <div align="center">
 <img src="https://github.com/Saraiva97/relogio-javascript/assets/93497276/ff221c0d-1001-43a6-a231-bbb90e42e005 style="width:400px"/>
